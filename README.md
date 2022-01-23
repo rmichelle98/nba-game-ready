@@ -74,6 +74,6 @@ Displays all live and upcoming NBA games, including live scores and television n
     
     
 ### Architecture
-<img src="MVVM.png" height=400>
+<img src="MVVM3.png" height=400>
     
 
