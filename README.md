@@ -2,9 +2,11 @@
 
 ## Table of Contents
 1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
-2. [Architecture](#Architecture)
+2. [Product Spec](#Product-Spec)
+3. [Wireframes](#Wireframes)
+4. [Networking](#Networking)
+5. [Architecture](#Architecture)
+6. [Responsibilities](#Responsibilities)
 
 ## Overview
 ### Description
@@ -62,7 +64,7 @@ Displays all live and upcoming NBA games, including live scores and television n
 <img src="WIREFRAME" width=600>
 
 
-### Networking
+## Networking
 
 ##### API-NBA
 - Base URL - [https://api-nba-v1.p.rapidapi.com/](https://api-nba-v1.p.rapidapi.com/)
@@ -73,7 +75,18 @@ Displays all live and upcoming NBA games, including live scores and television n
     `GET`    | /games/date/ | get all games by a specific date
     
     
-### Architecture
+## Architecture
 <img src="MVVM3.png" height=400>
+
+## Responsibilities
+Name         | Packages 
+   ----------|----------
+    `Kieran` | Recyclerview data
+    `Raven`  | ListAdapter
+    `Yunis`  | Networking - Games data
+    `Claire` | Recyclerview UI
+    `Shikeya`| Main UI
+    `Sabur`  | Networking - Images
+    
     
 
