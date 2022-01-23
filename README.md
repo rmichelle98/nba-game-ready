@@ -54,7 +54,7 @@ Displays all live and upcoming NBA games, including live scores and television n
 
 ### 3. Navigation
 
-**Flow Navigation** (Screen to Browser
+**Flow Navigation** (Screen to Browser)
 
 * Buy ticket button -> Opens browser to ticketing website
 * Networks/Television link -> Opens browser to Network's website
@@ -76,6 +76,7 @@ Displays all live and upcoming NBA games, including live scores and television n
     
     
 ## Architecture
+MVVM Architecture: Model-View-ViewModel
 <img src="MVVM3.png" height=400>
 
 ## Responsibilities
