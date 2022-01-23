@@ -72,6 +72,8 @@ Displays all live and upcoming NBA games, including live scores and television n
     `GET`    | /games/live/ | get all available games in play
     `GET`    | /games/date/ | get all games by a specific date
     
+    
 ### Architecture
+<img src="MVVM.png" height=400>
     
 
