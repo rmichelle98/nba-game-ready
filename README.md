@@ -4,7 +4,7 @@
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
 1. [Wireframes](#Wireframes)
-2. [Schema](#Schema)
+2. [Architecture](#Architecture)
 
 ## Overview
 ### Description
@@ -71,5 +71,7 @@ Displays all live and upcoming NBA games, including live scores and television n
    ----------|----------|------------
     `GET`    | /games/live/ | get all available games in play
     `GET`    | /games/date/ | get all games by a specific date
+    
+### Architecture
     
 
