@@ -30,13 +30,13 @@ Displays all live and upcoming NBA games, including live scores and television n
 
 * User launches app to see a list of all NBA games for the current day
 * User wants to know which games are televised and what channels those games are on
+* User clicks on the network of the televised games and is taken to the network website
 * User sees live updates on scores for each game
 * User can click on a game and go to website to purchase tickets
 
 **Optional Nice-to-have Stories**
 
 * User clicks on a game listed and can see team and player stats
-* User clicks on the network of the televised games and is taken to the network website
 * User can see if they are close to a stadium in map view
 * User can search for a team or player and add them to their favorites list
 * User can set reminders and notifications for games
