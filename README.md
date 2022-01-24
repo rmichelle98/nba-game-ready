@@ -1,4 +1,4 @@
-# NBA Game Ready
+# 🏀 NBA Game Ready 🏀
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -70,7 +70,7 @@ Displays all live and upcoming NBA games, including live scores and television n
 
 ## Wireframes
 
-<img src="WIREFRAME" width=600>
+<img src="wireframe.jpeg" width=400>
 
 
 ## Networking
@@ -89,14 +89,14 @@ MVVM Architecture: Model-View-ViewModel
 <img src="MVVM3.png" height=400>
 
 ## Responsibilities
-Name         | Packages 
-   ----------|----------
-    `Kieran` | Recyclerview data
-    `Raven`  | ListAdapter
-    `Yunis`  | Networking - Games data
-    `Claire` | Recyclerview UI
-    `Shikeya`| Main UI
-    `Sabur`  | Networking - Images
-    
+
+| Name | Packages |
+| - | :-: |
+| `Kieran` | Recyclerview data | 
+| `Raven`  | ListAdapter       |
+| `Yunis`  | Networking - Games Data |
+| `Claire` | Recyclerview UI |
+| `Shikeya` | Main UI |
+| `Sabur` | Networking - Images |
     
 
