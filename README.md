@@ -50,6 +50,15 @@ Displays all live and upcoming NBA games, including live scores and television n
    * lists of game times, scores, quarters, and television networks
    * buy ticket icon/button that connects to ticketing website
    * networks/television link that connects to the network website
+
+* Yesterday Games Screen
+   * lists of games and final scores 
+   
+* Tommorrow Games Screen
+   * lists of game times and television networks
+   * buy ticket icon/button that connects to ticketing website
+   * networks/television link that connects to the network website
+   
   
 
 ### 3. Navigation
