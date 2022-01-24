@@ -41,8 +41,8 @@ Displays all live and upcoming NBA games, including live scores and television n
 * User can search for a team or player and add them to their favorites list
 * User can set reminders and notifications for games
 * User has an option to create an account and profile to have quick access to favorites, saved games, and setup notifications
-* Create accessibility options for all users
-* Add multiple languages
+* User has accessibility options
+* User can change text to multiple different languages
 
 ### 2. Screen Archetypes
 
@@ -54,7 +54,7 @@ Displays all live and upcoming NBA games, including live scores and television n
 * Yesterday Games Screen
    * lists of games and final scores 
    
-* Tommorrow Games Screen
+* Tomorrow Games Screen
    * lists of game times and television networks
    * buy ticket icon/button that connects to ticketing website
    * networks/television link that connects to the network website
@@ -63,8 +63,9 @@ Displays all live and upcoming NBA games, including live scores and television n
 
 ### 3. Navigation
 
-**Flow Navigation** (Screen to Browser)
+**Flow Navigation** (Screen to Screen to Browser)
 
+* Today screen -> <- Yesterday screen -> <- Tomorrow
 * Buy ticket button -> Opens browser to ticketing website
 * Networks/Television link -> Opens browser to Network's website
 
