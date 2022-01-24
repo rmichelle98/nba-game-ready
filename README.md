@@ -20,7 +20,7 @@ Displays all live and upcoming NBA games, including live scores and television n
 - **Story:** Pulls all NBA game information to display in a list on the main screen.
 - **Market:** Ages 4+
 - **Habit:** This app could be used as often as needed during the NBA season.
-- **Scope:** First we are displaying live game updates along with the television networks for televised games.  Eventually the app could evolve to displaying team and player stats from a user search.
+- **Scope:** First, we are displaying live game updates along with the television networks for televised games.  Eventually the app could evolve to displaying team and player stats from a user search.
 
 ## Product Spec
 
@@ -65,7 +65,7 @@ Displays all live and upcoming NBA games, including live scores and television n
 
 **Flow Navigation** (Screen to Screen to Browser)
 
-* Today screen -> <- Yesterday screen -> <- Tomorrow
+* Today screen -> <- Yesterday screen -> <- Tomorrow screen
 * Buy ticket button -> Opens browser to ticketing website
 * Networks/Television link -> Opens browser to Network's website
 
