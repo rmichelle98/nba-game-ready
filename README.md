@@ -92,7 +92,7 @@ MVVM Architecture: Model-View-ViewModel
 
 | Name | Packages |
 | - | :-: |
-| `Kieran` | Recyclerview data | 
+| `Kieran` | Recyclerview data & ViewModel | 
 | `Raven`  | ListAdapter       |
 | `Yunis`  | Networking - Games Data |
 | `Claire` | Recyclerview UI |
